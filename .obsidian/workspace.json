@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "6. Network Media/6.1 Network Media Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "6.1 Network Media Types"
             }
           }
         ]
@@ -171,8 +171,17 @@
   },
   "active": "a304685c4a48b121",
   "lastOpenFiles": [
-    "5. Communication Principle/Images/Pasted image 20250916175631.png",
+    "6. Network Media/6.1 Network Media Types.md",
+    "6. Network Media/Images/Pasted image 20250918205310.png",
+    "6. Network Media/Images",
+    "6. Network Media/Images/Pasted image 20250918205934.png",
+    "6. Network Media/Images/Pasted image 20250918205834.png",
+    "Pasted image 20250918205827.png",
+    "6. Network Media/Images/Pasted image 20250918205736.png",
     "5. Communication Principle/5.3 Network Communication Models.md",
+    "6. Network Media",
+    "README.md",
+    "5. Communication Principle/Images/Pasted image 20250916175631.png",
     "5. Communication Principle/Images",
     "5. Communication Principle/5.2 The Internet and Standards.md",
     "5. Communication Principle/5.1 Communication Protocols.md",
@@ -180,12 +189,10 @@
     "Pasted image 20250916212244.png",
     "Pasted image 20250916212254.png",
     "5. Communication Principle/Images/Pasted image 20250916212232.png",
-    "5. Communication Principle/Images/Pasted image 20250916210231.png",
     "4. Build a Home Network/4.4 Set up a Home Router.md",
     "5. Communication Principle",
     "4. Build a Home Network/4.3 Wiresless Standards.md",
     "4. Build a Home Network/4.2 Network Technologies in the Home.md",
-    "README.md",
     "2.  Network Components, Types, and Connections/2.2 Network Components.md",
     "4. Build a Home Network/4_4_4_Packet_Tracer_Configure_a_Wireless_Router_and_Client.pka~",
     "4. Build a Home Network/4_4_4_Packet_Tracer_Configure_a_Wireless_Router_and_Client.docx",
@@ -196,17 +203,11 @@
     "4. Build a Home Network/4.1 Home Network Basics.md",
     "3. Wireless and Normal Networks/3.1 Wireless Network.md",
     "3. Wireless and Normal Networks/3.2 Mobile Device Connectivity.md",
-    "2.  Network Components, Types, and Connections/Images/Pasted image 20250909174247.png",
-    "2.  Network Components, Types, and Connections/Images/Pasted image 20250909173453.png",
-    "2.  Network Components, Types, and Connections/Images/Pasted image 20250909171401.png",
-    "2.  Network Components, Types, and Connections/Images/Pasted image 20250909165235.png",
     "2.  Network Components, Types, and Connections/Images",
     "2.  Network Components, Types, and Connections/2.3 ISP Connectivity Options.md",
     "2.  Network Components, Types, and Connections/2.1 Client and Server.md",
     "2.  Network Components, Types, and Connections",
     "1. Communication in a Connected World/1.3 Bandwidth and Throughput.md",
-    "1. Communication in a Connected World",
-    "test",
     "4. Build a Home Network/Images/Untitled.md",
     "3. Wireless and Normal Networks/Untitled.md",
     "().md",
@@ -214,7 +215,6 @@
     "Test/test2.md",
     "Test/test1.md",
     "create a link.md",
-    "Test.md",
-    "2025-09-08.md"
+    "Test.md"
   ]
 }
