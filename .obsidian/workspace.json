@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. The Access Layer/7.2 The Access Layer.md",
+                "file": "8. The Internet Protocol/8.2 The IPv4 Address Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2 The Access Layer"
+              "title": "8.2 The IPv4 Address Structure"
             }
           }
         ]
@@ -171,12 +171,19 @@
   },
   "active": "b5197a2001f82a7c",
   "lastOpenFiles": [
-    "5. Communication Principle/5.1 Communication Protocols.md",
-    "5. Communication Principle/5.2 The Internet and Standards.md",
-    "5. Communication Principle/5.3 Network Communication Models.md",
-    "6. Network Media/6.1 Network Media Types.md",
+    "8. The Internet Protocol/Images/Pasted image 20250921232951.png",
+    "8. The Internet Protocol/8.2 The IPv4 Address Structure.md",
+    "8. The Internet Protocol/Images",
+    "8. The Internet Protocol/Images/Pasted image 20250921231907.png",
+    "8. The Internet Protocol/8.1  Purpose of an IPv4 Address.md",
+    "8. The Internet Protocol/Connect to a Web Server.pka",
     "7. The Access Layer/7.1 Encapsulation and the Ethernet frame.md",
+    "8. The Internet Protocol",
+    "6. Network Media/6.1 Network Media Types.md",
+    "5. Communication Principle/5.3 Network Communication Models.md",
+    "5. Communication Principle/5.2 The Internet and Standards.md",
     "7. The Access Layer/7.2 The Access Layer.md",
+    "5. Communication Principle/5.1 Communication Protocols.md",
     "7. The Access Layer/Images/Pasted image 20250919221630.png",
     "7. The Access Layer/Images",
     "7. The Access Layer/Images/Pasted image 20250919122108.png",
@@ -191,17 +198,12 @@
     "README.md",
     "5. Communication Principle/Images/Pasted image 20250916175631.png",
     "5. Communication Principle/Images",
-    "5. Communication Principle/Images/Pasted image 20250916213210.png",
-    "Pasted image 20250916212244.png",
     "4. Build a Home Network/4.4 Set up a Home Router.md",
     "5. Communication Principle",
     "4. Build a Home Network/4.3 Wiresless Standards.md",
     "4. Build a Home Network/4.2 Network Technologies in the Home.md",
     "2.  Network Components, Types, and Connections/2.2 Network Components.md",
     "4. Build a Home Network/4_4_4_Packet_Tracer_Configure_a_Wireless_Router_and_Client.pka~",
-    "4. Build a Home Network/4_4_4_Packet_Tracer_Configure_a_Wireless_Router_and_Client.docx",
-    "4. Build a Home Network/8_1_3_Packet_Tracer_Connect_to_a_Web_Server.docx",
-    "4. Build a Home Network/4_4_4_Packet_Tracer_Configure_a_Wireless_Router_and_Client.pka",
     "1. Communication in a Connected World/1.1 Network Types.md",
     "1. Communication in a Connected World/1.2 Data Transmission.md",
     "4. Build a Home Network/4.1 Home Network Basics.md",
@@ -213,8 +215,6 @@
     "4. Build a Home Network/Images/Untitled.md",
     "3. Wireless and Normal Networks/Untitled.md",
     "().md",
-    "Welcome.md",
-    "Test/test2.md",
-    "Test/test1.md"
+    "Welcome.md"
   ]
 }
