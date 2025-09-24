@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. IPv6 Addressing Formats and Rules/10.1 IPv4 Issues.md",
+                "file": "10. IPv6 Addressing Formats and Rules/10.2 IPv6 Addressing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.1 IPv4 Issues"
+              "title": "10.2 IPv6 Addressing"
             }
           }
         ]
@@ -169,16 +169,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "db84bc9517568323",
+  "active": "a304685c4a48b121",
   "lastOpenFiles": [
+    "10. IPv6 Addressing Formats and Rules/10.1 IPv4 Issues.md",
+    "10. IPv6 Addressing Formats and Rules/10.2 IPv6 Addressing.md",
+    "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924161608.png",
     "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924002031.png",
     "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924001834.png",
-    "10. IPv6 Addressing Formats and Rules/10.1 IPv4 Issues.md",
     "10. IPv6 Addressing Formats and Rules/Images",
     "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924001831.png",
     "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924001701.png",
     "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924000942.png",
-    "README.md",
+    "10. IPv6 Addressing Formats and Rules/README.md",
     "10. IPv6 Addressing Formats and Rules",
     "9. IPv4 and Network Segmentation/Note Types of IPv4.md",
     "9. IPv4 and Network Segmentation/9.2 Types of IPv4 Addresses.md",
@@ -190,8 +192,6 @@
     "9. IPv4 and Network Segmentation/Images/Pasted image 20250923182421.png",
     "9. IPv4 and Network Segmentation/Images/Pasted image 20250923182305.png",
     "9. IPv4 and Network Segmentation/Images/Pasted image 20250923164349.png",
-    "9. IPv4 and Network Segmentation/Images/Pasted image 20250923165026.png",
-    "9. IPv4 and Network Segmentation/Images/Pasted image 20250923161726.png",
     "9. IPv4 and Network Segmentation/Images",
     "6. Network Media/6.1 Network Media Types.md",
     "9. IPv4 and Network Segmentation",
@@ -215,7 +215,6 @@
     "4. Build a Home Network/4.1 Home Network Basics.md",
     "3. Wireless and Normal Networks/3.1 Wireless Network.md",
     "3. Wireless and Normal Networks/3.2 Mobile Device Connectivity.md",
-    "2.  Network Components, Types, and Connections/2.3 ISP Connectivity Options.md",
-    "2.  Network Components, Types, and Connections/2.1 Client and Server.md"
+    "2.  Network Components, Types, and Connections/2.3 ISP Connectivity Options.md"
   ]
 }
