@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. Network Boundaries/12.2 Network Address Translation.md",
+                "file": "13. The ARP Process/13.1 MAC and IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.2 Network Address Translation"
+              "title": "13.1 MAC and IP"
             }
           }
         ]
@@ -171,8 +171,16 @@
   },
   "active": "d517dfb91922b8bf",
   "lastOpenFiles": [
-    "12. Network Boundaries/Images/Pasted image 20250929152730.png",
+    "13. The ARP Process/Identify MAC and IP Addresses.pka",
+    "13. The ARP Process/Images/Pasted image 20250929213632.png",
+    "13. The ARP Process/13.1 MAC and IP.md",
+    "13. The ARP Process/Images/Pasted image 20250929213305.png",
+    "13. The ARP Process/Images/Pasted image 20250929211021.png",
+    "13. The ARP Process/Images/Pasted image 20250929212124.png",
+    "13. The ARP Process/Images",
     "12. Network Boundaries/12.2 Network Address Translation.md",
+    "13. The ARP Process",
+    "12. Network Boundaries/Images/Pasted image 20250929152730.png",
     "12. Network Boundaries/12.1 Network Boundaries.md",
     "12. Network Boundaries/Images",
     "12. Network Boundaries/Examine NAT on a Wireless Router Instructions.pka",
@@ -191,20 +199,14 @@
     "11. Dynamic Addressing with DHCP",
     "10. IPv6 Addressing Formats and Rules/10.1 IPv4 Issues.md",
     "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924161608.png",
-    "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924002031.png",
-    "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924001834.png",
     "10. IPv6 Addressing Formats and Rules/Images",
-    "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924001831.png",
-    "10. IPv6 Addressing Formats and Rules/Images/Pasted image 20250924001701.png",
     "10. IPv6 Addressing Formats and Rules",
     "9. IPv4 and Network Segmentation/9.2 Types of IPv4 Addresses.md",
     "9. IPv4 and Network Segmentation/9.3 Network Segmentation.md",
     "9. IPv4 and Network Segmentation/9.1 IPv4 Unicast, Broadcast, and Multicast.md",
     "8. The Internet Protocol/8.1  Purpose of an IPv4 Address.md",
     "8. The Internet Protocol/8.2 The IPv4 Address Structure.md",
-    "9. IPv4 and Network Segmentation/Images",
     "6. Network Media/6.1 Network Media Types.md",
-    "9. IPv4 and Network Segmentation",
     "7. The Access Layer/7.1 Encapsulation and the Ethernet frame.md",
     "5. Communication Principle/5.3 Network Communication Models.md",
     "5. Communication Principle/5.2 The Internet and Standards.md",
@@ -214,7 +216,6 @@
     "4. Build a Home Network/4.3 Wiresless Standards.md",
     "4. Build a Home Network/4.2 Network Technologies in the Home.md",
     "2.  Network Components, Types, and Connections/2.2 Network Components.md",
-    "1. Communication in a Connected World/1.1 Network Types.md",
-    "1. Communication in a Connected World/1.2 Data Transmission.md"
+    "1. Communication in a Connected World/1.1 Network Types.md"
   ]
 }
